@@ -1,0 +1,12 @@
+/* social icons */
+.icon-green {
+  color: #21DD88;
+  font-size: 30px;
+  transition: 0.2s;
+  margin: 7px;
+}
+
+.icon-green:hover {
+ /* color: #9eeae2;*/
+  color: #d6ffeb;
+}

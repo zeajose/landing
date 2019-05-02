@@ -1,0 +1,17 @@
+.footer {
+  background-color: #2C2A2A;
+  padding: 60px;
+  font-size: 16px;
+}
+
+.icons {
+  text-align: center;
+}
+
+.footer p {
+  color: #646b6b;
+}
+
+.footer span {
+  color: #e60223;
+}

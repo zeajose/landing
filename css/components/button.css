@@ -1,0 +1,42 @@
+/* Your button CSS file */
+.btn-medium {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+  transition: 0.5s;
+}
+
+.btn-medium:hover {
+  color: #000000;
+}
+
+.btn-treehouse {
+  display: inline-block;
+  background-color: #6AD58B;
+  color: white;
+  border-radius: 50px;
+  padding: 15px 25px;
+  font-weight: bolder;
+  transition: 0.5s;
+  margin-top: 10px;
+}
+
+.btn-treehouse:hover {
+    background-color: #60c17d;
+}
+
+.btn-pinterest {
+  background-color: #e60223;
+  color: white;
+  border-radius: 12px;
+  padding: 15px 25px;
+  font-weight: bolder;
+  transition: 0.5s;
+}
+
+.btn-pinterest:hover {
+  background-color: #AD081B;
+}

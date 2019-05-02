@@ -1,0 +1,10 @@
+.banner {
+  padding: 200px 0;
+  color: white;
+  background-size: cover;
+/*  margin: 10px;*/
+}
+
+.banner a {
+  text-decoration: none;
+}
